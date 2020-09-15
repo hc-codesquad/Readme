@@ -7,6 +7,9 @@
   <img src="https://img.shields.io/npm/v/readme-md-generator.svg?orange=blue" />
 </p>
 
+## :writing_hand: Proposta
+
+
 ## ✨ Demo
 
   Acesse nossa solução de bot integrada a uma loja VTEX 
@@ -17,16 +20,16 @@
   <img width="700" align="center" src="https://user-images.githubusercontent.com/9840435/60266022-72a82400-98e7-11e9-9958-f9004c2f97e1.gif" alt="demo"/>
 </p>
 
-## :building_construction:	Arquitetura Proposta
-exemplo:
-<img src="https://github.com/danionescu0/docker-flask-mongodb-example/blob/master/resources/diagram.jpg"/>
-
 ## 🚀 Benefícios da Solução
 
  - 
  - 
  - 
 
+
+## :building_construction:	Arquitetura Desenvolvida
+**Exemplo interessante**
+<img width="900" src="https://github.com/danionescu0/docker-flask-mongodb-example/blob/master/resources/diagram.jpg"/>
 
 ## :notebook_with_decorative_cover:	 Documentação
 Veja a documentação dos nossos serviços:
