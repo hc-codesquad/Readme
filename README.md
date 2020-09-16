@@ -6,7 +6,7 @@
 
 ## :writing_hand: Proposta
 
-  Desenvolvimento de um **chatbot** para auxiliar o cliente na busca de produtos semelhantes aos procurados anteriormente de acordo com a similaridade das características dos mesmos.
+  Desenvolvimento de um **chatbot** para auxiliar o cliente na busca de produtos com características similares a um produto indisponível e ou fora estoque.
 
 
 ## ✨ Demo
