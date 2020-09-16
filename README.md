@@ -24,7 +24,7 @@
 
 
 ## :building_construction:	Arquitetura Desenvolvida
-<img width="900" src="https://user-images.githubusercontent.com/17733053/93281461-836ddf80-f7a2-11ea-962c-6afc9cc70ded.jpeg"/>
+<img width="900" src="https://user-images.githubusercontent.com/17733053/93281538-adbf9d00-f7a2-11ea-9672-10c1d9c7587e.jpeg"/>
 
 ## 	:package: Repositorios do Projeto
 Veja os nossos serviços:
