@@ -9,6 +9,8 @@
 
 ## :writing_hand: Proposta
 
+  Desenvolvimento de um **chatbot** para auxiliar o cliente na busca de produtos semelhantes aos procurados anteriormente de acordo com a similaridade das características dos mesmos.
+
 
 ## ✨ Demo
 
@@ -20,19 +22,12 @@
   <img width="700" align="center" src="https://user-images.githubusercontent.com/9840435/60266022-72a82400-98e7-11e9-9958-f9004c2f97e1.gif" alt="demo"/>
 </p>
 
-## 🚀 Benefícios da Solução
-
- - 
- - 
- - 
-
 
 ## :building_construction:	Arquitetura Desenvolvida
-**Exemplo interessante**
-<img width="900" src="https://github.com/danionescu0/docker-flask-mongodb-example/blob/master/resources/diagram.jpg"/>
+<img width="900" src="https://user-images.githubusercontent.com/17733053/93275064-413ca200-f792-11ea-85b2-e7c205ec7688.jpeg"/>
 
-## :notebook_with_decorative_cover:	 Documentação
-Veja a documentação dos nossos serviços:
+## 	:package: Repositorios do Projeto
+Veja os nossos serviços:
 - :computer: [Chatbot-App](https://github.com/hc-codesquad/chatbot-app)
 - :robot: [Chatbot-Api](https://github.com/hc-codesquad/chatbot-api)
 
