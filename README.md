@@ -21,6 +21,7 @@
 
 ## 	:package: Repositorios do Projeto
 Veja os nossos serviços:
+- :convenience_store: [Loja](https://github.com/hc-codesquad/storefinal)
 - :computer: [Chatbot-App](https://github.com/hc-codesquad/chatbot-app)
 - :robot: [Chatbot-Api](https://github.com/hc-codesquad/chatbot-api)
 
